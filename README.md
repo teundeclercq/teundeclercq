@@ -10,7 +10,6 @@
 
 [<img alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
 
----
 
 ### Language and Tools:
 
