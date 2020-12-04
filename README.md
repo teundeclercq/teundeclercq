@@ -6,8 +6,6 @@
 - 🎮 I also like to play games like: World of Warcraft and Old-school Runescape.
 - 🌲 On the weekends I like to go walking in the woods.
 
-<br/>
-
 ### Connect with me:
 
 [<img alt="linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg">][linkedin]
