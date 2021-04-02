@@ -2,7 +2,7 @@
 
 ## I'm a student at Fontys Hogeschool in Tilburg!
 - 🏫 Currently doing my minor in open learning. 
-- 📚 I'm currently learning DevOps. Learning to test Kubernetes on a Raspberry pi cluster 
+- 📚 I'm currently learning to build Authenitication & Authorization in Spring boot & Java with microservices architecture.
 - 🎮 I also like to play games like: World of Warcraft and Old-school Runescape.
 - 🌲 On the weekends I like to go walking in the woods.
 
