@@ -1,8 +1,10 @@
 ### Hi there, I'm Teun. 👋
 
 ## I'm a student at Fontys Hogeschool in Tilburg!
-- 🏫 Currently in semester 6 - Enterprise architecture.
-- 📚 I'm currently learning to build Authenitication & Authorization in Spring boot & Java with microservices architecture.
+
+- 🏫 Currently in semester 8 - Enterprise architecture.
+- 📚 I'm currently learning to Elixir 👾 & the Phoenix framework 🦄
+- 📚 In my spare time i like to pickup the Rust language. 👾
 - 🎮 I also like to play games like: World of Warcraft and Old-school Runescape.
 - 🌲 On the weekends I like to go walking in the woods.
 
