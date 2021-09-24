@@ -2,7 +2,7 @@
 
 ## I'm a student at Fontys Hogeschool in Tilburg!
 
-- 🏫 Currently in my last year doing an Internship @ [Wuunder]:https://github.com/wuunder/
+- 🏫 Currently in my last year doing an Internship @ [Wuunder][wuunder]
 - 📚 I'm currently learning to Elixir 👾 & the Phoenix framework 🦄
 - 📚 In my spare time I like to pickup the Rust language. 👾
 - 🎮 I also like to play games like: World of Warcraft Classic and Old-school Runescape.
@@ -33,3 +33,4 @@
 [githubpage]: https://github.com/teundeclercq
 [website]: https://dcsoftwaresolutions.com
 [linkedin]: https://linkedin.com/in/teun-de-clercq-10338816b/
+[wuunder]: https://github.com/wuunder/
