@@ -4,7 +4,6 @@
 
 - 🏫 Currently in my last year doing an Internship @ [Wuunder][wuunder]
 - 📚 I'm currently learning to Elixir 👾 & the Phoenix framework 🦄
-- 📚 In my spare time I like to pickup the Rust language. 👾
 - 🎮 I also like to play games like: World of Warcraft Classic and Old-school Runescape.
 - 🌲 On the weekends I like to go walking in the woods.
 
