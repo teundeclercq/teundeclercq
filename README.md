@@ -2,7 +2,6 @@
 
 ## I'm a student at Fontys Hogeschool in Tilburg!
 
-- 🏫 Currently in my last year doing an Internship @ [Wuunder][wuunder]
 - 📚 I'm currently learning to Elixir 👾 & the Phoenix framework 🦄
 - 🎮 I also like to play games like: World of Warcraft Classic and Old-school Runescape.
 - 🌲 On the weekends I like to go walking in the woods.
