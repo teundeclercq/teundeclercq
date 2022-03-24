@@ -1,7 +1,5 @@
 ### Hi there, I'm Teun. 👋
 
-## I'm a student at Fontys Hogeschool in Tilburg!
-
 - 📚 I'm currently learning Golang 👾
 - 🎮 I also like to play games like: World of Warcraft Classic and Old-school Runescape.
 - 🌲 On the weekends I like to go walking in the woods.
