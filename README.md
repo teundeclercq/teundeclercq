@@ -1,4 +1,4 @@
-### Hi there, I'm Teun. 👋
+### Hi there, I'm Teun 👋
 
 - 📚 I'm currently learning Golang 👾
 - 🎮 I also like to play games like: World of Warcraft Classic and Old-school Runescape.
